@@ -1,6 +1,6 @@
 {
   "name": "nitlix-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🥶 A starting out collection of tools to be used to control the client-side 🚀 of the web.",
   "main": "./dist/exports.js",
   "keywords": ["client", "nextjs"],
